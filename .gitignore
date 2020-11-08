@@ -1,0 +1,9 @@
+src/test/
+*.class
+*.log
+*.xml
+libs/
+.settings
+.classpath
+.project
+.idea/
